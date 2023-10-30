@@ -1,0 +1,581 @@
+.icon {
+    position: relative;
+    width: 1440px;
+    height: 966px;
+    object-fit: cover;
+  }
+  .parent {
+    position: absolute;
+    top: 525px;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .f1de432e97b94428A1b0910750Icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1440px;
+    height: 400px;
+    object-fit: cover;
+  }
+  .admission1 {
+    position: absolute;
+    top: 185px;
+    left: calc(50% - 136px);
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+  .f1de432e97b94428A1b0910750Parent {
+    position: absolute;
+    top: 125px;
+    left: 0;
+    width: 1440px;
+    height: 400px;
+    font-family: var(--font-work-sans);
+  }
+  .admissionsToVarious {
+    position: relative;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    width: 1140px;
+  }
+  .admissionProcedure {
+    position: relative;
+    line-height: 24px;
+  }
+  .rectangle,
+  .rectangle1 {
+    position: absolute;
+    left: 0;
+  }
+  .rectangle {
+    top: 1px;
+    background-color: #d4d4d0;
+    width: 1140px;
+    height: 1px;
+  }
+  .rectangle1 {
+    top: 0;
+    border-radius: 2px;
+    background-color: var(--color-red);
+    width: 145.7px;
+    height: 3px;
+  }
+  .rectangleParent {
+    position: relative;
+    width: 1140px;
+    height: 3px;
+  }
+  .admissionProcedureParent {
+    width: 1140px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-xs);
+  }
+  .mdipaperEditIcon {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .entranceTests {
+    position: relative;
+    line-height: 22px;
+  }
+  .mdipaperEditParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-3xs);
+  }
+  .studentsSeekingAdmission {
+    line-height: 16px;
+  }
+  .studentsSeekingAdmissionIn {
+    margin: 0;
+    padding-left: var(--padding-2xl);
+  }
+  .blankLine {
+    margin: 0;
+    line-height: 16px;
+  }
+  .studentsSeekingAdmissionContainer1 {
+    line-break: anywhere;
+    width: 100%;
+  }
+  .studentsSeekingAdmissionContainer {
+    position: relative;
+    font-size: var(--font-inherit);
+    font-family: var(--font-inherit);
+    color: var(--color-darkslategray);
+    display: flex;
+    align-items: center;
+    width: 1140px;
+  }
+  .frameContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-xl);
+  }
+  .fourPassportSize {
+    margin-bottom: 0;
+  }
+  .fourPassportSizeContainer {
+    position: relative;
+    font-size: var(--font-inherit);
+    line-height: 22px;
+    font-family: var(--font-inherit);
+    color: var(--color-darkslategray);
+    display: flex;
+    align-items: center;
+    width: 1140px;
+  }
+  .admissionsToVariousClassesParent,
+  .frameGroup,
+  .frameParent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .frameGroup {
+    gap: var(--gap-21xl);
+    font-size: var(--font-size-lg);
+    color: var(--color-red);
+  }
+  .admissionsToVariousClassesParent,
+  .frameParent {
+    gap: var(--gap-xl);
+    font-size: 24px;
+  }
+  .admissionsToVariousClassesParent {
+    position: absolute;
+    top: 605px;
+    left: calc(50% - 570px);
+    gap: var(--gap-21xl);
+    font-size: 32px;
+    color: var(--color-gray);
+  }
+  .frameChild {
+    position: relative;
+    background: linear-gradient(90deg, #ff0d00, #d81106);
+    width: 1440px;
+    height: 45px;
+    z-index: 0;
+  }
+  .riinstagramFillIcon,
+  .socialIcon1 {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .socialIcon1 {
+    width: 18px;
+    height: 18px;
+  }
+  .socialIcons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-5xl);
+  }
+  .heroiconscurrencyRupeeSolid {
+    position: relative;
+    width: 19px;
+    height: 19px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .payFees {
+    position: relative;
+    font-weight: 500;
+  }
+  .heroiconscurrencyRupeeSolidParent {
+    height: 19px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-9xs);
+  }
+  .logoswhatsappIcon {
+    position: relative;
+    width: 19px;
+    height: 19.1px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .frameParent3,
+  .socialIconsParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .frameParent3 {
+    justify-content: flex-start;
+    gap: var(--gap-21xl);
+  }
+  .socialIconsParent {
+    margin: 0 !important;
+    position: absolute;
+    top: calc(50% - 10.5px);
+    left: calc(50% - 620px);
+    width: 1240px;
+    justify-content: space-between;
+    z-index: 1;
+  }
+  .rectangleGroup {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: relative;
+    gap: var(--gap-3xs);
+  }
+  .frameItem {
+    position: relative;
+    background-color: var(--color-white);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.07);
+    width: 1440px;
+    height: 80px;
+    z-index: 0;
+  }
+  .logoIcon {
+    position: relative;
+    width: 60.3px;
+    height: 57.3px;
+    object-fit: cover;
+  }
+  .school {
+    color: #4284f3;
+  }
+  .theDoonValleyContainer {
+    position: relative;
+    line-height: 36.3px;
+    text-transform: uppercase;
+  }
+  .affiliatedToCbse {
+    position: relative;
+    font-size: 16.94px;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-family: var(--font-roboto);
+    color: var(--color-red);
+  }
+  .theDoonValleyPublicSchoolParent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+  }
+  .frameInner {
+    position: relative;
+    border-right: 1.2px solid var(--color-gray);
+    box-sizing: border-box;
+    width: 1.2px;
+    height: 49.6px;
+  }
+  .awardedAsA,
+  .categorySchoolCbse {
+    position: relative;
+    text-transform: uppercase;
+  }
+  .awardedAsA {
+    line-height: 36.3px;
+    background: linear-gradient(171.19deg, #e2c771, #eada6b);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .categorySchoolCbse {
+    font-size: 16.94px;
+    font-weight: 600;
+  }
+  .awardedAsAParent {
+    height: 54.4px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 21.78px;
+    color: var(--color-red);
+    font-family: var(--font-roboto);
+  }
+  .frameParent5,
+  .logoParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  .frameParent5 {
+    gap: 19.36px;
+  }
+  .logoParent {
+    gap: var(--gap-xs);
+  }
+  .ionmenuIcon {
+    position: relative;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .frameParent4 {
+    margin: 0 !important;
+    position: absolute;
+    top: 11px;
+    left: calc(50% - 620px);
+    width: 1240px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 1;
+  }
+  .frameParent2,
+  .rectangleContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .rectangleContainer {
+    position: relative;
+    gap: var(--gap-3xs);
+    text-align: center;
+    font-size: 26.62px;
+    color: #4184f2;
+    font-family: var(--font-bakbak-one);
+  }
+  .frameParent2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: var(--font-size-sm);
+  }
+  .logoIcon1 {
+    position: relative;
+    width: 80px;
+    height: 76px;
+    object-fit: cover;
+  }
+  .theDoonValley {
+    position: relative;
+    line-height: 39px;
+    font-weight: 600;
+    display: inline-block;
+    max-width: 314.70001220703125px;
+  }
+  .logoGroup {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 14px;
+  }
+  .roundPlace24pxIcon {
+    position: relative;
+    width: 24px;
+    height: 24px;
+  }
+  .abcCompany {
+    position: relative;
+    line-height: 22px;
+    display: inline-block;
+    width: 421px;
+    flex-shrink: 0;
+  }
+  .officeAddress {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-base);
+  }
+  .div {
+    position: relative;
+  }
+  .officeAddressParent,
+  .phoneNumberParent {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .phoneNumberParent {
+    flex-direction: row;
+    gap: 120px;
+  }
+  .officeAddressParent {
+    flex-direction: column;
+    gap: var(--gap-base);
+  }
+  .socialMedia {
+    position: relative;
+    font-weight: 500;
+    opacity: 0.5;
+    mix-blend-mode: normal;
+  }
+  .rectangle2 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  .facebookIcon,
+  .twitterIcon {
+    position: absolute;
+    height: 75%;
+    width: 75%;
+    top: 12.5%;
+    right: 12.5%;
+    bottom: 12.5%;
+    left: 12.5%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .twitterIcon {
+    height: 62.5%;
+    top: 20.83%;
+    bottom: 16.67%;
+  }
+  .facebookBlack1Parent,
+  .socialMediaParent {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+  .facebookBlack1Parent {
+    align-items: flex-start;
+    gap: var(--gap-5xl);
+  }
+  .socialMediaParent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    align-items: center;
+    gap: 26px;
+  }
+  .social {
+    position: relative;
+    width: 332px;
+    height: 24px;
+  }
+  .frameParent7 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-21xl);
+  }
+  .information {
+    position: relative;
+    width: 461px;
+    height: 128px;
+    font-size: var(--font-size-sm);
+  }
+  .frameParent6 {
+    position: absolute;
+    top: 53px;
+    left: 181px;
+    width: 1071px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+  }
+  .rectangleDiv {
+    position: relative;
+    background-color: var(--color-white);
+    width: 1074px;
+    height: 1px;
+    opacity: 0.2;
+    mix-blend-mode: normal;
+  }
+  .aboutUs {
+    position: relative;
+    text-transform: uppercase;
+    font-weight: 500;
+  }
+  .aboutUsParent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 41px;
+  }
+  .theDoonValley1 {
+    text-decoration: underline;
+  }
+  .theDoonValleyPublicSchool {
+    color: inherit;
+  }
+  .copyright2018Container {
+    position: relative;
+    color: var(--font-inherit);
+    opacity: 0.5;
+    mix-blend-mode: normal;
+  }
+  .frameParent8,
+  .rectangleParent1 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .frameParent8 {
+    flex-direction: row;
+    gap: 221px;
+  }
+  .rectangleParent1 {
+    position: absolute;
+    top: 241px;
+    left: 179px;
+    flex-direction: column;
+    gap: var(--gap-5xl);
+    font-size: var(--font-size-sm);
+  }
+  .footer7LightMode {
+    position: absolute;
+    bottom: 0;
+    left: calc(50% - 720px);
+    width: 1440px;
+    height: 350px;
+    overflow: hidden;
+    background-image: url(/public/footer-7-light-mode@3x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    font-size: 34px;
+    font-family: var(--font-poppins);
+  }
+  .admission {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 1890px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 42px;
+    color: var(--color-white);
+    font-family: var(--font-lato);
+  }
+  

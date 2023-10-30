@@ -1,0 +1,738 @@
+.icon {
+    position: relative;
+    width: 1440px;
+    height: 966px;
+    object-fit: cover;
+  }
+  .parent {
+    position: absolute;
+    top: 525px;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .f1de432e97b94428A1b0910750Icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1440px;
+    height: 400px;
+    object-fit: cover;
+  }
+  .newsEvents1 {
+    position: absolute;
+    top: calc(50% - 15px);
+    left: calc(50% - 197px);
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+  .f1de432e97b94428A1b0910750Parent {
+    position: absolute;
+    top: 125px;
+    left: 0;
+    width: 1440px;
+    height: 400px;
+    font-size: 42px;
+    color: var(--color-white);
+    font-family: var(--font-work-sans);
+  }
+  .annualFunction {
+    position: relative;
+    line-height: 24px;
+  }
+  .annualFunctionWrapper {
+    flex-direction: row;
+    align-items: center;
+  }
+  .annualFunctionWrapper,
+  .frameDiv,
+  .sept2023Wrapper {
+    display: flex;
+    justify-content: flex-start;
+  }
+  .sept2023Wrapper {
+    flex-direction: row;
+    align-items: center;
+    font-size: var(--font-size-base);
+    color: var(--color-darkslategray);
+  }
+  .frameDiv {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--gap-7xs);
+  }
+  .rectangle,
+  .rectangle1 {
+    position: absolute;
+    top: 1px;
+    left: 0;
+    background-color: var(--color-lightgray);
+    width: 1140px;
+    height: 1px;
+  }
+  .rectangle1 {
+    top: 0;
+    border-radius: var(--br-11xs);
+    background-color: var(--color-red);
+    width: 145.7px;
+    height: 3px;
+  }
+  .rectangleParent {
+    position: relative;
+    width: 1140px;
+    height: 3px;
+  }
+  .frameContainer {
+    width: 1140px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-xs);
+  }
+  .loremIpsumDolor,
+  .utEnimAd,
+  .utEnimAd1 {
+    position: absolute;
+    top: 0;
+    left: 281.2px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    width: 863.8px;
+  }
+  .utEnimAd,
+  .utEnimAd1 {
+    top: 108px;
+  }
+  .utEnimAd1 {
+    top: 200px;
+    color: var(--color-red);
+    width: 300.3px;
+  }
+  .groupChild {
+    position: absolute;
+    top: 1px;
+    left: 0;
+    width: 251.1px;
+    height: 220.6px;
+    object-fit: cover;
+  }
+  .loremIpsumDolorSitAmetCoParent {
+    position: relative;
+    width: 1145px;
+    height: 222px;
+    font-size: var(--font-size-sm);
+    color: var(--color-darkslategray);
+  }
+  .gallery01690x506jpgIcon,
+  .gallery02690x506jpgIcon {
+    position: relative;
+    width: 279px;
+    height: 186px;
+    object-fit: cover;
+    max-width: 360px;
+  }
+  .gallery01690x506jpgIcon {
+    width: 280px;
+  }
+  .frameGroup,
+  .gallery02690x506jpgParent {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .gallery02690x506jpgParent {
+    width: 1145px;
+    flex-direction: row;
+    gap: var(--gap-3xs);
+  }
+  .frameGroup {
+    flex-direction: column;
+    gap: var(--gap-21xl);
+  }
+  .loremIpsumDolor1 {
+    position: relative;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    width: 863.8px;
+  }
+  .loremIpsumDolorSitAmetCoGroup {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 20px;
+  }
+  .utEnimAd3 {
+    position: relative;
+    line-height: 22px;
+    display: flex;
+    color: var(--color-red);
+    align-items: center;
+    width: 300.3px;
+  }
+  .frameParent5 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-7xl);
+  }
+  .frameChild {
+    position: relative;
+    width: 251.1px;
+    height: 220.6px;
+    object-fit: cover;
+  }
+  .frameParent4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 30px;
+  }
+  .frameWrapper {
+    position: relative;
+    width: 1144.9px;
+    height: 222px;
+    font-size: var(--font-size-sm);
+    color: var(--color-darkslategray);
+  }
+  .frameParent {
+    position: absolute;
+    top: 606px;
+    left: 150px;
+    width: 1145px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 80px;
+  }
+  .groupItem {
+    position: absolute;
+    top: 1px;
+    left: 0;
+    border-radius: var(--br-5xs);
+    width: 251px;
+    height: 221px;
+    object-fit: cover;
+  }
+  .newsEventsChild,
+  .newsEventsInner,
+  .newsEventsInner1 {
+    position: absolute;
+    top: 2051px;
+    left: 145px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .newsEventsChild,
+  .newsEventsInner1 {
+    top: 2462px;
+  }
+  .newsEventsInner1 {
+    top: 2873px;
+  }
+  .loremIpsumDolor5 {
+    color: #001c30;
+  }
+  .duisAuteIrureContainer {
+    position: relative;
+    line-height: 22px;
+    display: inline-block;
+    max-width: 614.9849853515625px;
+  }
+  .divelementorElement {
+    align-self: stretch;
+    width: 517px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 11.25px 0 var(--padding-5xs-5);
+    box-sizing: border-box;
+  }
+  .divelementorColumnWrap {
+    background-color: var(--color-whitesmoke);
+    width: 630px;
+    height: 90.8px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 27px var(--padding-5xs-5) 25.5px;
+    box-sizing: border-box;
+  }
+  .bookACall {
+    position: relative;
+  }
+  .solararrowRightLinearIcon {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .divelementorColumnWrap1 {
+    align-self: stretch;
+    flex: 1;
+    background-color: var(--color-red);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: var(--gap-sm);
+  }
+  .divelementorColumn {
+    width: 330px;
+    height: 91px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 12px;
+    box-sizing: border-box;
+    min-height: 0.75px;
+    color: var(--color-white);
+  }
+  .div,
+  .divelementorRow {
+    width: 940px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  .div {
+    position: absolute;
+    top: 1880px;
+    left: calc(50% - 720px);
+    background-color: var(--color-whitesmoke);
+    width: 1440px;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 0 240px;
+    box-sizing: border-box;
+    font-size: var(--font-size-base);
+    color: #498af6;
+  }
+  .frameItem {
+    position: relative;
+    background: linear-gradient(90deg, #ff0d00, #d81106);
+    width: 1440px;
+    height: 45px;
+    z-index: 0;
+  }
+  .riinstagramFillIcon,
+  .socialIcon1 {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .socialIcon1 {
+    width: 18px;
+    height: 18px;
+  }
+  .socialIcons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-5xl);
+  }
+  .heroiconscurrencyRupeeSolid {
+    position: relative;
+    width: 19px;
+    height: 19px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .payFees {
+    position: relative;
+    font-weight: 500;
+  }
+  .heroiconscurrencyRupeeSolidParent {
+    height: 19px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-9xs);
+  }
+  .logoswhatsappIcon {
+    position: relative;
+    width: 19px;
+    height: 19.1px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .frameParent16,
+  .socialIconsParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .frameParent16 {
+    justify-content: flex-start;
+    gap: var(--gap-21xl);
+  }
+  .socialIconsParent {
+    margin: 0 !important;
+    position: absolute;
+    top: calc(50% - 10.5px);
+    left: calc(50% - 620px);
+    width: 1240px;
+    justify-content: space-between;
+    z-index: 1;
+  }
+  .rectangleParent2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: relative;
+    gap: var(--gap-3xs);
+  }
+  .frameInner {
+    position: relative;
+    background-color: var(--color-white);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.07);
+    width: 1440px;
+    height: 80px;
+    z-index: 0;
+  }
+  .logoIcon {
+    position: relative;
+    width: 60.3px;
+    height: 57.3px;
+    object-fit: cover;
+  }
+  .school {
+    color: #4284f3;
+  }
+  .theDoonValleyContainer {
+    position: relative;
+    line-height: 36.3px;
+    text-transform: uppercase;
+  }
+  .affiliatedToCbse {
+    position: relative;
+    font-size: 16.94px;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-family: var(--font-roboto);
+    color: var(--color-red);
+  }
+  .theDoonValleyPublicSchoolParent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+  }
+  .lineDiv {
+    position: relative;
+    border-right: 1.2px solid var(--color-gray-100);
+    box-sizing: border-box;
+    width: 1.2px;
+    height: 49.6px;
+  }
+  .awardedAsA,
+  .categorySchoolCbse {
+    position: relative;
+    text-transform: uppercase;
+  }
+  .awardedAsA {
+    line-height: 36.3px;
+    background: linear-gradient(171.19deg, #e2c771, #eada6b);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .categorySchoolCbse {
+    font-size: 16.94px;
+    font-weight: 600;
+  }
+  .awardedAsAParent {
+    height: 54.4px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 21.78px;
+    color: var(--color-red);
+    font-family: var(--font-roboto);
+  }
+  .frameParent18,
+  .logoParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  .frameParent18 {
+    gap: 19.36px;
+  }
+  .logoParent {
+    gap: var(--gap-xs);
+  }
+  .ionmenuIcon {
+    position: relative;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .frameParent17 {
+    margin: 0 !important;
+    position: absolute;
+    top: 11px;
+    left: calc(50% - 620px);
+    width: 1240px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 1;
+  }
+  .frameParent15,
+  .rectangleParent3 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .rectangleParent3 {
+    position: relative;
+    gap: var(--gap-3xs);
+    text-align: center;
+    font-size: 26.62px;
+    color: #4184f2;
+    font-family: var(--font-bakbak-one);
+  }
+  .frameParent15 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: var(--font-size-sm);
+    color: var(--color-white);
+  }
+  .logoIcon1 {
+    position: relative;
+    width: 80px;
+    height: 76px;
+    object-fit: cover;
+  }
+  .theDoonValley {
+    position: relative;
+    line-height: 39px;
+    font-weight: 600;
+    display: inline-block;
+    max-width: 314.70001220703125px;
+  }
+  .logoGroup {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-sm);
+  }
+  .roundPlace24pxIcon {
+    position: relative;
+    width: 24px;
+    height: 24px;
+  }
+  .abcCompany {
+    position: relative;
+    line-height: 22px;
+    display: inline-block;
+    width: 421px;
+    flex-shrink: 0;
+  }
+  .officeAddress {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-base);
+  }
+  .officeAddressParent,
+  .phoneNumberParent {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .phoneNumberParent {
+    flex-direction: row;
+    gap: 120px;
+  }
+  .officeAddressParent {
+    flex-direction: column;
+    gap: var(--gap-base);
+  }
+  .socialMedia {
+    position: relative;
+    font-weight: 500;
+    opacity: 0.5;
+    mix-blend-mode: normal;
+  }
+  .rectangle10 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  .facebookIcon,
+  .twitterIcon {
+    position: absolute;
+    height: 75%;
+    width: 75%;
+    top: 12.5%;
+    right: 12.5%;
+    bottom: 12.5%;
+    left: 12.5%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .twitterIcon {
+    height: 62.5%;
+    top: 20.83%;
+    bottom: 16.67%;
+  }
+  .facebookBlack1Parent,
+  .socialMediaParent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-5xl);
+  }
+  .socialMediaParent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    align-items: center;
+    gap: var(--gap-7xl);
+  }
+  .social {
+    position: relative;
+    width: 332px;
+    height: 24px;
+  }
+  .frameParent20 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-21xl);
+  }
+  .information {
+    position: relative;
+    width: 461px;
+    height: 128px;
+    font-size: var(--font-size-sm);
+  }
+  .frameParent19 {
+    position: absolute;
+    top: 53px;
+    left: 181px;
+    width: 1071px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+  }
+  .rectangleDiv {
+    position: relative;
+    background-color: var(--color-white);
+    width: 1074px;
+    height: 1px;
+    opacity: 0.2;
+    mix-blend-mode: normal;
+  }
+  .aboutUs {
+    position: relative;
+    text-transform: uppercase;
+    font-weight: 500;
+  }
+  .aboutUsParent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 41px;
+  }
+  .theDoonValley1 {
+    text-decoration: underline;
+  }
+  .theDoonValleyPublicSchool {
+    color: inherit;
+  }
+  .copyright2018Container {
+    position: relative;
+    color: inherit;
+    opacity: 0.5;
+    mix-blend-mode: normal;
+  }
+  .frameParent21,
+  .rectangleParent4 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .frameParent21 {
+    flex-direction: row;
+    gap: 221px;
+  }
+  .rectangleParent4 {
+    position: absolute;
+    top: 241px;
+    left: 179px;
+    flex-direction: column;
+    gap: var(--gap-5xl);
+    font-size: var(--font-size-sm);
+  }
+  .footer7LightMode {
+    position: absolute;
+    bottom: 0;
+    left: calc(50% - 720px);
+    width: 1440px;
+    height: 350px;
+    overflow: hidden;
+    background-image: url(/public/footer-7-light-mode@3x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    font-size: 34px;
+    color: var(--color-white);
+    font-family: var(--font-poppins);
+  }
+  .newsEvents {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 3689px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-5xl);
+    color: var(--color-gray-100);
+    font-family: var(--font-lato);
+  }
+  

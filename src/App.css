@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bakbak+One:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-lato: Lato;
+  --font-nunito-sans: "Nunito Sans";
+  --font-inter: Inter;
+  --font-roboto: Roboto;
+  --font-bakbak-one: "Bakbak One";
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+  --font-size-lg: 18px;
+  --font-size-base-9: 16.9px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #10171d;
+  --color-darkslategray: #3c5567;
+  --color-red: #ff0d00;
+
+  /* Gaps */
+  --gap-5xl: 24px;
+  --gap-21xl: 40px;
+  --gap-base: 16px;
+  --gap-3xs: 10px;
+  --gap-9xs: 4px;
+
+  /* Border radiuses */
+  --br-xs: 12px;
+}
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bakbak+One:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-roboto: Roboto;
+  --font-bakbak-one: "Bakbak One";
+  --font-lato: Lato;
+  --font-work-sans: "Work Sans";
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-base-9: 16.9px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-red: #ff0d00;
+  --color-lightgray: #d3d3d3;
+  --color-darkslategray: #3c5567;
+
+  /* Gaps */
+  --gap-5xl: 24px;
+  --gap-21xl: 40px;
+  --gap-base: 16px;
+  --gap-3xs: 10px;
+  --gap-9xs: 4px;
+
+  /* Paddings */
+  --padding-5xs: 8px;
+  --padding-2xs-1: 10.1px;
+
+  /* Border radiuses */
+  --br-9xs: 4px;
+}
+
+/* 777 */
+
+/* 555 */

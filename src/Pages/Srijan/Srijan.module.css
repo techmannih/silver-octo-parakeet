@@ -1,0 +1,626 @@
+.icon {
+    position: relative;
+    width: 1440px;
+    height: 966px;
+    object-fit: cover;
+  }
+  .parent {
+    position: absolute;
+    top: 525px;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .f1de432e97b94428A1b0910750Icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1440px;
+    height: 400px;
+    object-fit: cover;
+  }
+  .srijan1 {
+    position: absolute;
+    top: calc(50% - 15px);
+    left: calc(50% - 86px);
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+  .f1de432e97b94428A1b0910750Parent {
+    position: absolute;
+    top: 125px;
+    left: 0;
+    width: 1440px;
+    height: 400px;
+    font-size: 42px;
+    font-family: var(--font-work-sans);
+  }
+  .srijan2 {
+    position: relative;
+    line-height: 24px;
+  }
+  .frameWrapper,
+  .srijanWrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .frameWrapper {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .rectangle,
+  .rectangle1 {
+    position: absolute;
+    left: 0;
+  }
+  .rectangle {
+    top: 1px;
+    background-color: #d4d4d0;
+    width: 1140px;
+    height: 1px;
+  }
+  .rectangle1 {
+    top: 0;
+    border-radius: 2px;
+    background-color: var(--color-red);
+    width: 145.7px;
+    height: 3px;
+  }
+  .rectangleParent {
+    position: relative;
+    width: 1140px;
+    height: 3px;
+  }
+  .frameGroup {
+    width: 1140px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-xs);
+    font-size: 24px;
+    color: var(--color-gray);
+  }
+  .theUniqueArt {
+    position: absolute;
+    top: 0;
+    left: 0;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    width: 1140.5px;
+  }
+  .theUniqueArtFestIsAMesmeWrapper {
+    position: relative;
+    width: 1140.5px;
+    height: 66px;
+    color: #3c5567;
+  }
+  .gallery02690x506jpgIcon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 279px;
+    height: 186px;
+    object-fit: cover;
+  }
+  .groupChild {
+    position: absolute;
+    top: 156px;
+    left: 0;
+    border-radius: 0 var(--br-5xs) 0 0;
+    background-color: var(--color-red);
+    width: 100px;
+    height: 30px;
+  }
+  .div {
+    position: absolute;
+    top: 163px;
+    left: 23px;
+    font-weight: 600;
+  }
+  .gallery02690x506jpgParent {
+    position: relative;
+    width: 279px;
+    height: 186px;
+  }
+  .gallery01690x506jpgIcon,
+  .gallery03690x506jpgIcon {
+    position: relative;
+    width: 279px;
+    height: 186px;
+    object-fit: cover;
+    max-width: 360px;
+  }
+  .gallery01690x506jpgIcon {
+    width: 280px;
+  }
+  .groupParent {
+    width: 1145px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-3xs);
+  }
+  .gallery01690x506jpgIcon2,
+  .gallery03690x506jpgIcon2 {
+    position: relative;
+    width: 279px;
+    height: 186px;
+    object-fit: cover;
+  }
+  .gallery01690x506jpgIcon2 {
+    width: 280px;
+  }
+  .gallery02690x506jpg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-base);
+    background-color: rgba(55, 126, 249, 0.15);
+    width: 1145px;
+    height: 186px;
+  }
+  .gallery02690x506jpgIcon3 {
+    border-radius: var(--br-base);
+    object-fit: cover;
+  }
+  .gallery02690x506jpgIcon3,
+  .groupDiv {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1145px;
+    height: 186px;
+  }
+  .comingSoon,
+  .p {
+    margin: 0;
+  }
+  .p {
+    font-size: 28px;
+    font-weight: 500;
+  }
+  .comingSoon202324Container {
+    position: absolute;
+    top: calc(50% - 42px);
+    left: calc(50% - 118.5px);
+    line-height: 40px;
+    color: var(--color-dodgerblue-100);
+    text-align: center;
+    font-size: 40px;
+  }
+  .groupParent1 {
+    position: relative;
+    width: 1145px;
+    height: 186px;
+  }
+  .frameParent {
+    position: absolute;
+    top: 605px;
+    left: calc(50% - 572px);
+    width: 1145px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-21xl);
+  }
+  .frameChild {
+    position: relative;
+    background: linear-gradient(90deg, #ff0d00, #d81106);
+    width: 1440px;
+    height: 45px;
+    z-index: 0;
+  }
+  .riinstagramFillIcon,
+  .socialIcon1 {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .socialIcon1 {
+    width: 18px;
+    height: 18px;
+  }
+  .socialIcons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-5xl);
+  }
+  .heroiconscurrencyRupeeSolid {
+    position: relative;
+    width: 19px;
+    height: 19px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .payFees {
+    position: relative;
+    font-weight: 500;
+  }
+  .heroiconscurrencyRupeeSolidParent {
+    height: 19px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-9xs);
+  }
+  .logoswhatsappIcon {
+    position: relative;
+    width: 19px;
+    height: 19.1px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .frameParent1,
+  .socialIconsParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .frameParent1 {
+    justify-content: flex-start;
+    gap: var(--gap-21xl);
+  }
+  .socialIconsParent {
+    margin: 0 !important;
+    position: absolute;
+    top: calc(50% - 10.5px);
+    left: calc(50% - 620px);
+    width: 1240px;
+    justify-content: space-between;
+    z-index: 1;
+  }
+  .rectangleGroup {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: relative;
+    gap: var(--gap-3xs);
+  }
+  .frameItem {
+    position: relative;
+    background-color: var(--color-white);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.07);
+    width: 1440px;
+    height: 80px;
+    z-index: 0;
+  }
+  .logoIcon {
+    position: relative;
+    width: 60.3px;
+    height: 57.3px;
+    object-fit: cover;
+  }
+  .school {
+    color: #4284f3;
+  }
+  .theDoonValleyContainer {
+    position: relative;
+    line-height: 36.3px;
+    text-transform: uppercase;
+  }
+  .affiliatedToCbse {
+    position: relative;
+    font-size: 16.94px;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-family: var(--font-roboto);
+    color: var(--color-red);
+  }
+  .theDoonValleyPublicSchoolParent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+  }
+  .frameInner {
+    position: relative;
+    border-right: 1.2px solid var(--color-gray);
+    box-sizing: border-box;
+    width: 1.2px;
+    height: 49.6px;
+  }
+  .awardedAsA,
+  .categorySchoolCbse {
+    position: relative;
+    text-transform: uppercase;
+  }
+  .awardedAsA {
+    line-height: 36.3px;
+    background: linear-gradient(171.19deg, #e2c771, #eada6b);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .categorySchoolCbse {
+    font-size: 16.94px;
+    font-weight: 600;
+  }
+  .awardedAsAParent {
+    height: 54.4px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 21.78px;
+    color: var(--color-red);
+    font-family: var(--font-roboto);
+  }
+  .frameParent3,
+  .logoParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  .frameParent3 {
+    gap: 19.36px;
+  }
+  .logoParent {
+    gap: var(--gap-xs);
+  }
+  .ionmenuIcon {
+    position: relative;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .frameParent2 {
+    margin: 0 !important;
+    position: absolute;
+    top: 11px;
+    left: calc(50% - 620px);
+    width: 1240px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 1;
+  }
+  .frameContainer,
+  .rectangleContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .rectangleContainer {
+    position: relative;
+    gap: var(--gap-3xs);
+    text-align: center;
+    font-size: 26.62px;
+    color: var(--color-dodgerblue-100);
+    font-family: var(--font-bakbak-one);
+  }
+  .frameContainer {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .logoIcon1 {
+    position: relative;
+    width: 80px;
+    height: 76px;
+    object-fit: cover;
+  }
+  .theDoonValley {
+    position: relative;
+    line-height: 39px;
+    font-weight: 600;
+    display: inline-block;
+    max-width: 314.70001220703125px;
+  }
+  .logoGroup {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 14px;
+  }
+  .roundPlace24pxIcon {
+    position: relative;
+    width: 24px;
+    height: 24px;
+  }
+  .abcCompany {
+    position: relative;
+    line-height: 22px;
+    display: inline-block;
+    width: 421px;
+    flex-shrink: 0;
+  }
+  .officeAddress {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-base);
+  }
+  .div4 {
+    position: relative;
+  }
+  .officeAddressParent,
+  .phoneNumberParent {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .phoneNumberParent {
+    flex-direction: row;
+    gap: 120px;
+  }
+  .officeAddressParent {
+    flex-direction: column;
+    gap: var(--gap-base);
+  }
+  .socialMedia {
+    position: relative;
+    font-weight: 500;
+    opacity: 0.5;
+    mix-blend-mode: normal;
+  }
+  .rectangle2 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  .facebookIcon,
+  .twitterIcon {
+    position: absolute;
+    height: 75%;
+    width: 75%;
+    top: 12.5%;
+    right: 12.5%;
+    bottom: 12.5%;
+    left: 12.5%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .twitterIcon {
+    height: 62.5%;
+    top: 20.83%;
+    bottom: 16.67%;
+  }
+  .facebookBlack1Parent,
+  .socialMediaParent {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+  .facebookBlack1Parent {
+    align-items: flex-start;
+    gap: var(--gap-5xl);
+  }
+  .socialMediaParent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    align-items: center;
+    gap: 26px;
+  }
+  .social {
+    position: relative;
+    width: 332px;
+    height: 24px;
+  }
+  .frameParent5 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-21xl);
+  }
+  .information {
+    position: relative;
+    width: 461px;
+    height: 128px;
+    font-size: var(--font-size-sm);
+  }
+  .frameParent4 {
+    position: absolute;
+    top: 53px;
+    left: 181px;
+    width: 1071px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+  }
+  .frameChild1 {
+    position: relative;
+    background-color: var(--color-white);
+    width: 1074px;
+    height: 1px;
+    opacity: 0.2;
+    mix-blend-mode: normal;
+  }
+  .aboutUs {
+    position: relative;
+    text-transform: uppercase;
+    font-weight: 500;
+  }
+  .aboutUsParent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 41px;
+  }
+  .theDoonValley1 {
+    text-decoration: underline;
+  }
+  .theDoonValleyPublicSchool {
+    color: inherit;
+  }
+  .copyright2018Container {
+    position: relative;
+    color: inherit;
+    opacity: 0.5;
+    mix-blend-mode: normal;
+  }
+  .frameParent6,
+  .rectangleParent1 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .frameParent6 {
+    flex-direction: row;
+    gap: 221px;
+  }
+  .rectangleParent1 {
+    position: absolute;
+    top: 241px;
+    left: 179px;
+    flex-direction: column;
+    gap: var(--gap-5xl);
+    font-size: var(--font-size-sm);
+  }
+  .footer7LightMode {
+    position: absolute;
+    bottom: 0;
+    left: calc(50% - 720px);
+    width: 1440px;
+    height: 350px;
+    overflow: hidden;
+    background-image: url(/public/footer-7-light-mode@3x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    font-size: 34px;
+    font-family: var(--font-poppins);
+  }
+  .srijan {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 2104px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-sm);
+    color: var(--color-white);
+    font-family: var(--font-lato);
+  }
+  

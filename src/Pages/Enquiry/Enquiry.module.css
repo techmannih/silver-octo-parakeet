@@ -1,0 +1,897 @@
+.icon {
+    position: relative;
+    width: 1440px;
+    height: 966px;
+    object-fit: cover;
+  }
+  .parent {
+    position: absolute;
+    top: 525px;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .f1de432e97b94428A1b0910750Icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1440px;
+    height: 400px;
+    object-fit: cover;
+  }
+  .admission {
+    position: absolute;
+    top: 185px;
+    left: calc(50% - 136px);
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+  .f1de432e97b94428A1b0910750Parent {
+    position: absolute;
+    top: 125px;
+    left: 0;
+    width: 1440px;
+    height: 400px;
+    font-size: 42px;
+    font-family: var(--font-work-sans);
+  }
+  .groupChild {
+    border-radius: var(--br-5xs);
+    background-color: var(--color-white);
+    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.07);
+  }
+  .groupChild,
+  .rectangleWrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1200px;
+    height: 624px;
+  }
+  .getInTouch {
+    position: absolute;
+    top: 50px;
+    left: 65px;
+    font-size: 32px;
+    line-height: 45px;
+    color: var(--color-gray);
+  }
+  .groupItem {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-whitesmoke);
+    box-sizing: border-box;
+    width: 370px;
+    height: 50px;
+  }
+  .name {
+    position: absolute;
+    top: 15px;
+    left: 20px;
+    line-height: 20px;
+  }
+  .rectangleParent {
+    position: absolute;
+    top: 28px;
+    left: 0;
+    width: 370px;
+    height: 50px;
+  }
+  .span {
+    color: var(--color-red-100);
+  }
+  .enterYourFullContainer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 15px;
+    line-height: 20px;
+    color: var(--color-gray);
+  }
+  .email,
+  .groupDiv {
+    position: absolute;
+    top: 0;
+  }
+  .groupDiv {
+    left: 0;
+    width: 370px;
+    height: 78px;
+  }
+  .email {
+    left: 2px;
+    line-height: 20px;
+    color: var(--color-gray);
+  }
+  .groupParent1,
+  .rectangleDiv {
+    position: absolute;
+    top: 0;
+    left: 410px;
+    width: 370px;
+    height: 78px;
+  }
+  .rectangleDiv {
+    left: 0;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-whitesmoke);
+    box-sizing: border-box;
+    width: 255px;
+    height: 50px;
+  }
+  .mmddyyyy,
+  .uiwdateIcon {
+    position: absolute;
+    top: 15px;
+  }
+  .mmddyyyy {
+    left: 13.7px;
+    line-height: 20px;
+  }
+  .uiwdateIcon {
+    left: 222px;
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+  }
+  .rectangleContainer {
+    position: absolute;
+    top: 28px;
+    left: 0;
+    width: 255px;
+    height: 50px;
+  }
+  .groupContainer,
+  .groupParent2 {
+    position: absolute;
+    top: 0;
+    left: 820px;
+    width: 255px;
+    height: 78px;
+  }
+  .groupContainer {
+    top: 154px;
+    left: 65px;
+    width: 1075px;
+  }
+  .mobileNoContainer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    line-height: 20px;
+    color: var(--color-gray);
+  }
+  .groupChild2,
+  .groupParent4 {
+    position: absolute;
+    top: 0;
+    left: 705px;
+    width: 370px;
+    height: 78px;
+  }
+  .groupChild2 {
+    left: 0;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-whitesmoke);
+    box-sizing: border-box;
+    width: 665px;
+    height: 50px;
+  }
+  .address {
+    position: absolute;
+    top: 15px;
+    left: 25.4px;
+    line-height: 20px;
+    display: inline-block;
+    width: 63.4px;
+  }
+  .rectangleParent2 {
+    position: absolute;
+    top: 28px;
+    left: 0;
+    width: 665px;
+    height: 50px;
+  }
+  .candidatesResidentialFullContainer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    line-height: 20px;
+    display: inline-block;
+    width: 306.4px;
+    color: var(--color-gray);
+  }
+  .groupParent5 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 665px;
+    height: 78px;
+  }
+  .formkitdownIcon,
+  .groupParent3 {
+    position: absolute;
+    top: 272px;
+    left: 65px;
+    width: 1075px;
+    height: 78px;
+  }
+  .formkitdownIcon {
+    top: 21px;
+    left: 330px;
+    width: 16px;
+    height: 7px;
+    overflow: hidden;
+  }
+  .dot,
+  .radio1 {
+    position: absolute;
+    border-radius: var(--br-13xl);
+  }
+  .radio1 {
+    top: -0.5px;
+    left: -0.5px;
+    background-color: var(--color-white);
+    border: 1px solid var(--color-lightgray);
+    box-sizing: border-box;
+    width: 25px;
+    height: 25px;
+  }
+  .dot {
+    top: 6px;
+    left: 6px;
+    background-color: var(--color-red-100);
+    width: 12px;
+    height: 12px;
+  }
+  .male,
+  .radio {
+    position: relative;
+  }
+  .radio {
+    width: 24px;
+    height: 24px;
+  }
+  .male {
+    line-height: 24px;
+  }
+  .radioButton {
+    width: 110px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-base);
+  }
+  .dot1 {
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    border-radius: var(--br-13xl);
+    background-color: var(--keatext-purple);
+    width: 12px;
+    height: 12px;
+    display: none;
+  }
+  .radioButtonParent {
+    position: absolute;
+    top: 41px;
+    left: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 28px;
+  }
+  .frameParent,
+  .gender {
+    position: absolute;
+    top: 0;
+  }
+  .gender {
+    left: 0;
+    font-size: var(--font-size-sm);
+    line-height: 20px;
+    font-family: var(--font-lato);
+    color: var(--color-gray);
+  }
+  .frameParent {
+    left: 410px;
+    width: 248px;
+    height: 65px;
+    font-size: var(--font-size-base);
+    font-family: var(--font-inter);
+  }
+  .groupParent6 {
+    position: absolute;
+    top: 390px;
+    left: 65px;
+    width: 658px;
+    height: 78px;
+  }
+  .submit {
+    position: relative;
+    line-height: 24px;
+    display: inline-block;
+    width: 140px;
+    flex-shrink: 0;
+  }
+  .buttons,
+  .text {
+    display: flex;
+    align-items: flex-start;
+  }
+  .text {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .buttons {
+    position: absolute;
+    top: 528px;
+    left: calc(50% - 73px);
+    border-radius: var(--br-5xs);
+    background-color: var(--color-gray);
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 12px 8px;
+    text-align: center;
+    font-size: 18px;
+    color: var(--color-white);
+  }
+  .groupParent {
+    position: absolute;
+    top: 436px;
+    left: 120px;
+    width: 1200px;
+    height: 624px;
+    color: var(--color-darkslategray);
+  }
+  .ourLocation {
+    position: absolute;
+    top: 0;
+    left: 0;
+    line-height: 27px;
+  }
+  .loremIpsumDolor {
+    margin: 0;
+  }
+  .loremIpsumDolorContainer {
+    position: absolute;
+    top: 33px;
+    left: 0;
+    font-size: var(--font-size-base);
+    line-height: 25px;
+    color: var(--color-darkslategray);
+  }
+  .frameChild,
+  .ourLocationParent {
+    position: absolute;
+    top: 0;
+    left: 71.3px;
+    width: 198px;
+    height: 83px;
+  }
+  .frameChild {
+    left: 0;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-red-200);
+    width: 70px;
+    height: 70px;
+  }
+  .vectorIcon {
+    position: absolute;
+    height: 34.29%;
+    width: 34.27%;
+    top: 32.86%;
+    right: 32.96%;
+    bottom: 32.86%;
+    left: 32.77%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .frameDiv,
+  .groupParent9 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 53.1px;
+    height: 70px;
+  }
+  .groupParent9 {
+    width: 269.3px;
+    height: 83px;
+  }
+  .xxxxxx391Container {
+    position: absolute;
+    top: 33px;
+    left: 0;
+    font-size: var(--font-size-base);
+    line-height: 22px;
+    color: var(--color-darkslategray);
+    display: inline-block;
+    width: 138px;
+  }
+  .phoneNumberParent {
+    position: absolute;
+    top: 0;
+    left: 94px;
+    width: 138px;
+    height: 99px;
+  }
+  .frameIcon,
+  .groupParent10 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 70px;
+    height: 70px;
+  }
+  .groupParent10 {
+    left: 500px;
+    width: 232px;
+    height: 99px;
+  }
+  .examplegmailcom {
+    position: absolute;
+    top: 33px;
+    left: 0;
+    font-size: var(--font-size-base);
+    line-height: 22px;
+    color: var(--color-darkslategray);
+  }
+  .emailAddressParent,
+  .vectorIcon1 {
+    position: absolute;
+    top: 0;
+    left: 94px;
+    width: 144px;
+    height: 55px;
+  }
+  .vectorIcon1 {
+    height: 27.14%;
+    width: 40%;
+    top: 37.14%;
+    right: 30%;
+    bottom: 35.71%;
+    left: 30%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .rectangleParent4 {
+    position: absolute;
+    top: 3px;
+    left: 0;
+    width: 70px;
+    height: 70px;
+  }
+  .groupParent11,
+  .groupParent8 {
+    position: absolute;
+    top: 0;
+    left: 963px;
+    width: 238px;
+    height: 73px;
+  }
+  .groupParent8 {
+    top: 1140px;
+    left: 120px;
+    width: 1201px;
+    height: 99px;
+    font-size: var(--font-size-xl);
+    color: var(--color-gray);
+  }
+  .frameInner {
+    position: relative;
+    background: linear-gradient(90deg, #ff0d00, #d81106);
+    width: 1440px;
+    height: 45px;
+    z-index: 0;
+  }
+  .riinstagramFillIcon,
+  .socialIcon1 {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .socialIcon1 {
+    width: 18px;
+    height: 18px;
+  }
+  .socialIcons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-5xl);
+  }
+  .heroiconscurrencyRupeeSolid {
+    position: relative;
+    width: 19px;
+    height: 19px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .payFees {
+    position: relative;
+    font-weight: 500;
+  }
+  .heroiconscurrencyRupeeSolidParent {
+    height: 19px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-9xs);
+  }
+  .logoswhatsappIcon {
+    position: relative;
+    width: 19px;
+    height: 19.1px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .frameContainer,
+  .socialIconsParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .frameContainer {
+    justify-content: flex-start;
+    gap: var(--gap-21xl);
+  }
+  .socialIconsParent {
+    margin: 0 !important;
+    position: absolute;
+    top: calc(50% - 10.5px);
+    left: calc(50% - 620px);
+    width: 1240px;
+    justify-content: space-between;
+    z-index: 1;
+  }
+  .rectangleParent5 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: relative;
+    gap: var(--gap-3xs);
+  }
+  .frameChild1 {
+    position: relative;
+    background-color: var(--color-white);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.07);
+    width: 1440px;
+    height: 80px;
+    z-index: 0;
+  }
+  .logoIcon {
+    position: relative;
+    width: 60.3px;
+    height: 57.3px;
+    object-fit: cover;
+  }
+  .school {
+    color: #4284f3;
+  }
+  .theDoonValleyContainer {
+    position: relative;
+    line-height: 36.3px;
+    text-transform: uppercase;
+  }
+  .affiliatedToCbse {
+    position: relative;
+    font-size: 16.94px;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-family: var(--font-roboto);
+    color: var(--color-red-100);
+  }
+  .theDoonValleyPublicSchoolParent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+  }
+  .lineDiv {
+    position: relative;
+    border-right: 1.2px solid var(--color-gray);
+    box-sizing: border-box;
+    width: 1.2px;
+    height: 49.6px;
+  }
+  .awardedAsA,
+  .categorySchoolCbse {
+    position: relative;
+    text-transform: uppercase;
+  }
+  .awardedAsA {
+    line-height: 36.3px;
+    background: linear-gradient(171.19deg, #e2c771, #eada6b);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .categorySchoolCbse {
+    font-size: 16.94px;
+    font-weight: 600;
+  }
+  .awardedAsAParent {
+    height: 54.4px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 21.78px;
+    color: var(--color-red-100);
+    font-family: var(--font-roboto);
+  }
+  .frameParent2,
+  .logoParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 19.36px;
+  }
+  .logoParent {
+    gap: 12px;
+  }
+  .ionmenuIcon {
+    position: relative;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .frameParent1 {
+    margin: 0 !important;
+    position: absolute;
+    top: 11px;
+    left: calc(50% - 620px);
+    width: 1240px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 1;
+  }
+  .frameGroup,
+  .rectangleParent6 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .rectangleParent6 {
+    position: relative;
+    gap: var(--gap-3xs);
+    text-align: center;
+    font-size: 26.62px;
+    color: #4184f2;
+    font-family: var(--font-bakbak-one);
+  }
+  .frameGroup {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .logoIcon1 {
+    position: relative;
+    width: 80px;
+    height: 76px;
+    object-fit: cover;
+  }
+  .theDoonValley {
+    position: relative;
+    line-height: 39px;
+    font-weight: 600;
+    display: inline-block;
+    max-width: 314.70001220703125px;
+  }
+  .logoGroup {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 14px;
+  }
+  .abcCompany {
+    position: relative;
+    line-height: 22px;
+    display: inline-block;
+    width: 421px;
+    flex-shrink: 0;
+  }
+  .officeAddress {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-base);
+  }
+  .div1 {
+    position: relative;
+  }
+  .officeAddressParent,
+  .phoneNumberGroup {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .phoneNumberGroup {
+    flex-direction: row;
+    gap: 120px;
+  }
+  .officeAddressParent {
+    flex-direction: column;
+    gap: var(--gap-base);
+  }
+  .socialMedia {
+    position: relative;
+    font-weight: 500;
+    opacity: 0.5;
+    mix-blend-mode: normal;
+  }
+  .rectangle {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  .facebookIcon,
+  .twitterIcon {
+    position: absolute;
+    height: 75%;
+    width: 75%;
+    top: 12.5%;
+    right: 12.5%;
+    bottom: 12.5%;
+    left: 12.5%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .twitterIcon {
+    height: 62.5%;
+    top: 20.83%;
+    bottom: 16.67%;
+  }
+  .facebookBlack1Parent,
+  .socialMediaParent {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+  .facebookBlack1Parent {
+    align-items: flex-start;
+    gap: var(--gap-5xl);
+  }
+  .socialMediaParent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    align-items: center;
+    gap: 26px;
+  }
+  .social {
+    position: relative;
+    width: 332px;
+    height: 24px;
+  }
+  .frameParent4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-21xl);
+  }
+  .information {
+    position: relative;
+    width: 461px;
+    height: 128px;
+    font-size: var(--font-size-sm);
+  }
+  .frameParent3 {
+    position: absolute;
+    top: 53px;
+    left: 181px;
+    width: 1071px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+  }
+  .frameChild2 {
+    position: relative;
+    background-color: var(--color-white);
+    width: 1074px;
+    height: 1px;
+    opacity: 0.2;
+    mix-blend-mode: normal;
+  }
+  .aboutUs {
+    position: relative;
+    text-transform: uppercase;
+    font-weight: 500;
+  }
+  .aboutUsParent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 41px;
+  }
+  .theDoonValley1 {
+    text-decoration: underline;
+  }
+  .theDoonValleyPublicSchool {
+    color: inherit;
+  }
+  .copyright2018Container {
+    position: relative;
+    color: inherit;
+    opacity: 0.5;
+    mix-blend-mode: normal;
+  }
+  .frameParent5,
+  .rectangleParent7 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .frameParent5 {
+    flex-direction: row;
+    gap: 221px;
+  }
+  .rectangleParent7 {
+    position: absolute;
+    top: 241px;
+    left: 179px;
+    flex-direction: column;
+    gap: var(--gap-5xl);
+    font-size: var(--font-size-sm);
+  }
+  .footer7LightMode {
+    position: absolute;
+    bottom: 0;
+    left: calc(50% - 720px);
+    width: 1440px;
+    height: 350px;
+    overflow: hidden;
+    background-image: url(/public/footer-7-light-mode@3x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    font-size: 34px;
+    font-family: var(--font-poppins);
+  }
+  .enquiry {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 1705px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-sm);
+    color: var(--color-white);
+    font-family: var(--font-lato);
+  }
+  
